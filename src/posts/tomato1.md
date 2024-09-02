@@ -1,4 +1,4 @@
-``---
+---
 cover: /assets/images/cover12.jpg
 icon: pen-to-square
 date: 2024-09-01
