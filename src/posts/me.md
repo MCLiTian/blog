@@ -1,14 +1,14 @@
 ---
-cover: /assets/images/cover11.jpg
+cover: /assets/images/cover21.jpg
 icon: pen-to-square
 date: 2024-09-01
 category:
-  - 草莓
+  - 蔬菜
 tag:
-  - 红
-  - 圆
+  - 绿
+  - 大
 star: true
 sticky: true
 ---
 
-# 刘欣欣女士1
+# is me
