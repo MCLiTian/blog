@@ -1,5 +1,5 @@
 ---
-cover: /assets/images/cover11.jpg
+cover: /assets/images/cover12.jpg
 icon: pen-to-square
 date: 2024-09-01
 category:
@@ -11,6 +11,6 @@ star: true
 sticky: true
 ---
 
-# 刘欣欣女士
+# 刘欣欣女士1
 
 ![](/assets/images/lxx/1.jpeg)
