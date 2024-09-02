@@ -1,5 +1,6 @@
 ---
 cover: /assets/images/cover11.jpg
+cover: /assets/images/cover12.jpg
 icon: pen-to-square
 date: 2022-01-12
 category:
