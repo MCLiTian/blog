@@ -12,5 +12,3 @@ sticky: true
 ---
 
 # 刘欣欣女士1
-
-<img src="./assets/images/lxx/1.jpeg"/>
