@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 美女免费看
+heroText: 来看美女呀
 heroFullScreen: true
 tagline: 今日无事，勾栏听曲
 projects:
